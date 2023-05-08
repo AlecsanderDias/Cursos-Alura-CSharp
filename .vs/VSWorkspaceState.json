@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\curso-OO-CSharp",
-    "\\curso-OO-CSharp\\bytebank_ADM"
+    "\\curso-excecoes-CSharp",
+    "\\curso-OO-CSharp\\bytebank_ADM",
+    "\\curso-OO-CSharp\\bytebank_ADM\\Funcionarios"
   ],
-  "SelectedNode": "\\curso-OO-CSharp\\bytebank_ADM.sln",
+  "SelectedNode": "\\curso-excecoes-CSharp\\csharp_exception.sln",
   "PreviewInSolutionExplorer": false
 }
